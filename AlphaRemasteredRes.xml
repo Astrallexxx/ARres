@@ -109,19 +109,19 @@
     </Contents>
     <Contents>
         <Key>newsound/break/stone1.ogg</Key>
-        <Size>18541</Size>
+        <Size>12951</Size>
     </Contents>
     <Contents>
         <Key>newsound/break/stone2.ogg</Key>
-        <Size>22076</Size>
+        <Size>20288</Size>
     </Contents>
     <Contents>
         <Key>newsound/break/stone3.ogg</Key>
-        <Size>16700</Size>
+        <Size>20688</Size>
     </Contents>
     <Contents>
         <Key>newsound/break/stone4.ogg</Key>
-        <Size>24339</Size>
+        <Size>21921</Size>
     </Contents>
     <Contents>
         <Key>newsound/damage/hurtflesh1.ogg</Key>
@@ -557,19 +557,19 @@
     </Contents>
     <Contents>
         <Key>newsound/step/stone1.ogg</Key>
-        <Size>6909</Size>
+        <Size>6862</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/stone2.ogg</Key>
-        <Size>7221</Size>
+        <Size>7553</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/stone3.ogg</Key>
-        <Size>6406</Size>
+        <Size>6191</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/stone4.ogg</Key>
-        <Size>7237</Size>
+        <Size>7579</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/wood1.ogg</Key>
@@ -615,21 +615,21 @@
         <Key>sound/step/gravel3.ogg</Key>
         <Size>6905</Size>
     </Contents>
-     <Contents>
+    <Contents>
         <Key>sound/step/stone1.ogg</Key>
-        <Size>6909</Size>
+        <Size>6862</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone2.ogg</Key>
-        <Size>7221</Size>
+        <Size>7553</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone3.ogg</Key>
-        <Size>6406</Size>
+        <Size>6191</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone4.ogg</Key>
-        <Size>7237</Size>
+        <Size>7579</Size>
     </Contents>
     <Contents>
         <Key>sound/step/wood1.ogg</Key>
