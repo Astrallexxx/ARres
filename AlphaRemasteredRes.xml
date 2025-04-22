@@ -107,21 +107,21 @@
         <Key>newsound/break/mud.ogg</Key>
         <Size>21821</Size>
     </Contents>
-     <Contents>
+    <Contents>
         <Key>newsound/break/stone1.ogg</Key>
-        <Size>21027</Size>
+        <Size>14429</Size>
     </Contents>
     <Contents>
         <Key>newsound/break/stone2.ogg</Key>
-        <Size>25396</Size>
+        <Size>24032</Size>
     </Contents>
     <Contents>
         <Key>newsound/break/stone3.ogg</Key>
-        <Size>22111</Size>
+        <Size>23514</Size>
     </Contents>
     <Contents>
         <Key>newsound/break/stone4.ogg</Key>
-        <Size>25510</Size>
+        <Size>25153</Size>
     </Contents>
     <Contents>
         <Key>newsound/damage/hurtflesh1.ogg</Key>
@@ -557,19 +557,19 @@
     </Contents>
     <Contents>
         <Key>newsound/step/stone1.ogg</Key>
-        <Size>7452</Size>
+        <Size>7310</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/stone2.ogg</Key>
-        <Size>7065</Size>
+        <Size>7597</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/stone3.ogg</Key>
-        <Size>7005</Size>
+        <Size>6802</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/stone4.ogg</Key>
-        <Size>7348</Size>
+        <Size>8950</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/wood1.ogg</Key>
@@ -616,24 +616,20 @@
         <Size>6905</Size>
     </Contents>
     <Contents>
-        <Key>sound/step/gravel4.ogg</Key>
-        <Size>6728</Size>
-    </Contents>
-    <Contents>
         <Key>sound/step/stone1.ogg</Key>
-        <Size>7452</Size>
+        <Size>7310</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone2.ogg</Key>
-        <Size>7065</Size>
+        <Size>7597</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone3.ogg</Key>
-        <Size>7005</Size>
+        <Size>6802</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone4.ogg</Key>
-        <Size>7348</Size>
+        <Size>8950</Size>
     </Contents>
     <Contents>
         <Key>sound/step/wood1.ogg</Key>
