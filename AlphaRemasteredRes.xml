@@ -100,6 +100,10 @@
         <Size>29512</Size>
     </Contents>
     <Contents>
+        <Key>newsound/ambient/cave/cave14.ogg</Key>
+        <Size>570410</Size>
+    </Contents>
+    <Contents>
         <Key>newsound/break/mud.ogg</Key>
         <Size>21821</Size>
     </Contents>
@@ -416,6 +420,10 @@
         <Size>11333</Size>
     </Contents>
     <Contents>
+        <Key>newsound/random/throw.ogg</Key>
+        <Size>7712</Size>
+    </Contents>
+    <Contents>
         <Key>newsound/random/wood click.ogg</Key>
         <Size>4385</Size>
     </Contents>
@@ -469,7 +477,19 @@
     </Contents>
     <Contents>
         <Key>newsound/step/mud1.ogg</Key>
-        <Size>1</Size>
+        <Size>30847</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/step/mud2.ogg</Key>
+        <Size>10455</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/step/mud3.ogg</Key>
+        <Size>15199</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/step/mud4.ogg</Key>
+        <Size>24324</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/sand1.ogg</Key>
