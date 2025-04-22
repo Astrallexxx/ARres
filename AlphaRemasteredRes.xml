@@ -107,6 +107,22 @@
         <Key>newsound/break/mud.ogg</Key>
         <Size>21821</Size>
     </Contents>
+     <Contents>
+        <Key>newsound/break/stone1.ogg</Key>
+        <Size>20667</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/break/stone2.ogg</Key>
+        <Size>24693</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/break/stone3.ogg</Key>
+        <Size>21200</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/break/stone4.ogg</Key>
+        <Size>54709</Size>
+    </Contents>
     <Contents>
         <Key>newsound/damage/hurtflesh1.ogg</Key>
         <Size>8981</Size>
@@ -491,6 +507,22 @@
         <Key>newsound/step/mud4.ogg</Key>
         <Size>24324</Size>
     </Contents>
+     <Contents>
+        <Key>newsound/step/metal1.ogg</Key>
+        <Size>8553</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/step/metal2.ogg</Key>
+        <Size>7708</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/step/metal3.ogg</Key>
+        <Size>9481</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/step/metal4.ogg</Key>
+        <Size>8121</Size>
+    </Contents>
     <Contents>
         <Key>newsound/step/sand1.ogg</Key>
         <Size>5543</Size>
@@ -525,19 +557,19 @@
     </Contents>
     <Contents>
         <Key>newsound/step/stone1.ogg</Key>
-        <Size>6695</Size>
+        <Size>6786</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/stone2.ogg</Key>
-        <Size>6728</Size>
+        <Size>6778</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/stone3.ogg</Key>
-        <Size>6627</Size>
+        <Size>6583</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/stone4.ogg</Key>
-        <Size>6516</Size>
+        <Size>7206</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/wood1.ogg</Key>
@@ -589,19 +621,19 @@
     </Contents>
     <Contents>
         <Key>sound/step/stone1.ogg</Key>
-        <Size>6695</Size>
+        <Size>6786</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone2.ogg</Key>
-        <Size>6728</Size>
+        <Size>6778</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone3.ogg</Key>
-        <Size>6627</Size>
+        <Size>6583</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone4.ogg</Key>
-        <Size>6516</Size>
+        <Size>7206</Size>
     </Contents>
     <Contents>
         <Key>sound/step/wood1.ogg</Key>
