@@ -232,6 +232,38 @@
         <Size>13005</Size>
     </Contents>
     <Contents>
+        <Key>newsound/mob/fox1.ogg</Key>
+        <Size>8972</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/mob/fox2.ogg</Key>
+        <Size>8769</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/mob/fox3.ogg</Key>
+        <Size>9923</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/mob/foxdeath1.ogg</Key>
+        <Size>11087</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/mob/foxdeath2.ogg</Key>
+        <Size>12709</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/mob/foxhurt1.ogg</Key>
+        <Size>8903</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/mob/foxhurt2.ogg</Key>
+        <Size>8720</Size>
+    </Contents>
+     <Contents>
+        <Key>newsound/mob/foxhurt3.ogg</Key>
+        <Size>7912</Size>
+    </Contents>
+    <Contents>
         <Key>newsound/mob/pig1.ogg</Key>
         <Size>5645</Size>
     </Contents>
