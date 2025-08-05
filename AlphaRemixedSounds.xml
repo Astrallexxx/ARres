@@ -136,6 +136,18 @@
         <Size>10390</Size>
     </Contents>
     <Contents>
+        <Key>newsound/damage/fallbig1.ogg</Key>
+        <Size>11207</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/damage/fallbig2.ogg</Key>
+        <Size>8766</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/damage/fallsmall.ogg</Key>
+        <Size>7640</Size>
+    </Contents>
+    <Contents>
         <Key>newsound/fire/fire.ogg</Key>
         <Size>28689</Size>
     </Contents>
@@ -509,19 +521,19 @@
     </Contents>
     <Contents>
         <Key>newsound/step/gravel1.ogg</Key>
-        <Size>6851</Size>
+        <Size>7994</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/gravel2.ogg</Key>
-        <Size>7501</Size>
+        <Size>8336</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/gravel3.ogg</Key>
-        <Size>6905</Size>
+        <Size>7673</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/gravel4.ogg</Key>
-        <Size>6728</Size>
+        <Size>8261</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/mud1.ogg</Key>
@@ -637,15 +649,19 @@
     </Contents>
     <Contents>
         <Key>sound/step/gravel1.ogg</Key>
-        <Size>6851</Size>
+        <Size>7994</Size>
     </Contents>
     <Contents>
         <Key>sound/step/gravel2.ogg</Key>
-        <Size>7501</Size>
+        <Size>8336</Size>
     </Contents>
     <Contents>
         <Key>sound/step/gravel3.ogg</Key>
-        <Size>6905</Size>
+        <Size>7673</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/step/gravel4.ogg</Key>
+        <Size>8261</Size>
     </Contents>
     <Contents>
         <Key>sound/step/stone1.ogg</Key>
