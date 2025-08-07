@@ -104,6 +104,22 @@
         <Size>570410</Size>
     </Contents>
     <Contents>
+        <Key>newsound/ambient/weather/rain1.ogg</Key>
+        <Size>13185</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/ambient/weather/rain2.ogg</Key>
+        <Size>13301</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/ambient/weather/rain3.ogg</Key>
+        <Size>13322</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/ambient/weather/rain4.ogg</Key>
+        <Size>13955</Size>
+    </Contents>
+    <Contents>
         <Key>newsound/break/mud.ogg</Key>
         <Size>21821</Size>
     </Contents>
