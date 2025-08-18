@@ -521,19 +521,19 @@
     </Contents>
     <Contents>
         <Key>newsound/step/grass1.ogg</Key>
-        <Size>9059</Size>
+        <Size>7468</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/grass2.ogg</Key>
-        <Size>7409</Size>
+        <Size>7691</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/grass3.ogg</Key>
-        <Size>8568</Size>
+        <Size>7194</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/grass4.ogg</Key>
-        <Size>8133</Size>
+        <Size>7163</Size>
     </Contents>
     <Contents>
         <Key>newsound/step/gravel1.ogg</Key>
@@ -647,21 +647,21 @@
         <Key>newsound/step/wood4.ogg</Key>
         <Size>6817</Size>
     </Contents>
-     <Contents>
+    <Contents>
         <Key>sound/step/grass1.ogg</Key>
-        <Size>9059</Size>
+        <Size>7468</Size>
     </Contents>
     <Contents>
         <Key>sound/step/grass2.ogg</Key>
-        <Size>7409</Size>
+        <Size>7691</Size>
     </Contents>
     <Contents>
         <Key>sound/step/grass3.ogg</Key>
-        <Size>8568</Size>
+        <Size>7194</Size>
     </Contents>
     <Contents>
         <Key>sound/step/grass4.ogg</Key>
-        <Size>8133</Size>
+        <Size>7163</Size>
     </Contents>
     <Contents>
         <Key>sound/step/gravel1.ogg</Key>
