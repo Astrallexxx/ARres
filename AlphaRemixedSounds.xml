@@ -400,6 +400,14 @@
         <Size>14380</Size>
     </Contents>
     <Contents>
+        <Key>newsound/mob/wolf.ogg</Key>
+        <Size>34856</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/mob/wolfhurt.ogg</Key>
+        <Size>17645</Size>
+    </Contents>
+    <Contents>
         <Key>newsound/mob/zombie1.ogg</Key>
         <Size>16877</Size>
     </Contents>
