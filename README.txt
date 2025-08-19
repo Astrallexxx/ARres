@@ -11,3 +11,7 @@
 - Stone sounds by securesubset and jacqueslabuschagne242028 of freesound.org.
 
 - Metal sounds by DasDeer of freesound.org.
+
+- Wolf & Dog Aggressive by EminYILDIRIM -- https://freesound.org/s/547368/ -- License: Attribution 4.0
+
+- wolf-growl.wav by newagesoup -- https://freesound.org/s/338674/ -- License: Attribution 4.0
